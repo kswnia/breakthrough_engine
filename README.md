@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="" al![image.psd(2)](https://github.com/user-attachments/assets/b45486c0-24b3-406f-9a4b-a8264688e1d2)
+t="thumbnail">
+</p>
+
+
 # Transformation Framework: Break Stagnation, Level Up with Clarity
 
 This system is a step-by-step, first-principles-based transformation framework designed to break cycles of stagnation in life, business, and personal performance.
