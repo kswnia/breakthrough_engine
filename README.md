@@ -30,7 +30,7 @@ This system is structured into four recursive phases:
 ![thinking_concept](dashkiew.png)
 
 
-# look for outputs here --> outputs.md
+# look for outputs here --> ![outputs.md](outputs.md)
 
 # 🧩 Key Components
 
