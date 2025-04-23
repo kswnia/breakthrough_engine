@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="" al![image.psd(2)](https://github.com/user-attachments/assets/b45486c0-24b3-406f-9a4b-a8264688e1d2)
-t="thumbnail">
+  <img src="thumbnail.png" width=600,
+alt="thumbnail">
 </p>
 
 
@@ -29,4 +29,34 @@ This system is structured into four recursive phases:
 ![thinking_concept](dashkiew.png)
 
 
-look for outputs here --> outputs.md
+# look for outputs here --> outputs.md
+
+# 🧩 Key Components
+
+    Fact Inventory (Step 1): Diagnoses where energy is wasted or misdirected
+
+    Distortion Detection (Step 2): Names hidden fear, broken logic, abdicated responsibility
+
+    Passage Point (Step 3): Extracts a previously blocked, high-leverage experience
+
+    Movement Plan (Step 4): Sets a clean, specific, resistance-aware plan into motion
+
+# 🧠 Data Output & Tracking
+
+All answers from the Fact Inventory phase are stored in a structured .csv file, allowing:
+
+    Pattern recognition over time
+
+    Behavioral trend analysis
+
+    Integration into dashboards or journaling systems
+
+
+
+# if youre interested in details feel free to DM me on telegram --- [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](https://t.me/Hoopil)
+
+
+
+
+
+
