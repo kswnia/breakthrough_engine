@@ -25,6 +25,7 @@ The goal is not motivation, but diagnosis and clarity—to act only once the rea
 # 🔧 Architecture Overview
 
 This system is structured into four recursive phases:
+(inspiration videos of Mikhail Dashkiew)
 
 ![thinking_concept](dashkiew.png)
 
