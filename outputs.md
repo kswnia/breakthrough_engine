@@ -1,3 +1,5 @@
+``spoiler: **** - means personal private stuff,but i think you will catch the point with them ``
+
 ---
 🔍 GOAL:
 ---
@@ -86,7 +88,7 @@ Answer clearly — don’t soften, don’t defend. Ready?
 
 
 ---
-![distortions_identified](https://github.com/user-attachments/assets/2756fd35-2312-4c99-924e-63443c6a56e6)
+![some](https://github.com/user-attachments/assets/f394efab-d932-4442-b30c-071abb6433be)
 ---
 
 🔓 STEP 3: POINT OF PASSAGE — Your Breakthrough Trigger
@@ -102,7 +104,7 @@ This step is about 1–3 uncomfortable, avoided actions that:
 You said:
 
     "I don’t know how to sell myself"
-    "I’m afraid no one will care"
+    "I’m afraid *************"
     "I’m waiting to figure it out"
 
 So here’s your breakthrough point — tell me which resonates hardest (or modify):
@@ -133,7 +135,7 @@ So here’s your breakthrough point — tell me which resonates hardest (or modi
     “I built [X]. I’m looking for [freelance/project work] around [AI/automation/agents]. Got 15 mins to see if I can help?”
 
     Track the replies. Let silence hit.
-    💥 You confront: asking for value, fear of rejection, being seen as “just a kid”
+    💥 You confront: asking for value, fear of rejection, being seen as “********”
 
 
 
